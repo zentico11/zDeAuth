@@ -105,7 +105,7 @@ Click **Stop Attack** or disable monitor mode to stop the attack cleanly.
 
 ## Author
 
-Created by Zentico - Zentico11
+Created by [Zentico - Zentico11]
 
 ---
 
