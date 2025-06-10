@@ -103,15 +103,9 @@ Click **Stop Attack** or disable monitor mode to stop the attack cleanly.
 
 ---
 
-## License
-
-Use this tool for educational and authorized penetration testing purposes only. Unauthorized usage is prohibited.
-
----
-
 ## Author
-Zentico - Zentico11
-Created by [Your Name]
+
+Created by [Zentico - Zentico11]
 
 ---
 
