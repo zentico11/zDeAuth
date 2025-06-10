@@ -1,4 +1,4 @@
-# Wi-Fi Attack GUI Tool
+# Zentico DeAuth Wi-Fi Attack GUI Tool
 
 ## Overview
 
