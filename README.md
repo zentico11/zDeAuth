@@ -41,7 +41,7 @@ This Python-based GUI application allows you to scan nearby Wi-Fi networks and p
     ```
 3. Run the script as root:
     ```bash
-    sudo python3 wifi_attack_gui.py
+    sudo python3 zdeauth.py
     ```
 
 ---
